@@ -6,33 +6,32 @@
 
 ---
 
-**Autor:**
-**Fecha de la última versión:**
+**Autor: Ana Victoria Hernández Álvarez**
+**Fecha de la última versión: 14 de agosto de 2026**
 **Repositorio:**
 
 ---
 
 ## 1. Descripción del sistema
 
-**Nombre del sistema:**
+**Nombre del sistema: Bot de Atención Académica**
 
-**Descripción:**
+**Descripción: Es un bot dentro de Microsoft Teams que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección.**
 
 ---
 
 ## 2. Problema y usuarios
 
-**El problema:**
+**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. para lo cual la directora no tiene tiempo suficiente y por lo tanto no puede dar un servicio tan personalizado.**
 
-**Cómo se resuelve hoy sin el sistema:**
+**Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente a la directora para obtener respuestas, y ella debe contestar manualmente cada consulta**
 
 **Usuarios del sistema:**
 
 | Tipo de usuario | Qué necesita del sistema | Qué le preocupa |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Alumno | Quieren obtener respuestas rápidas a sus dudas | Que la directora de carrera no esté disponible en ese momento |
+| Directora de carrera | Quiere reducir las preguntas repetitivas | Asegurar que los alumnos reciban información correcta y actualizada|
 
 **Un conflicto entre usuarios:**
 
