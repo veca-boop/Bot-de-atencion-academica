@@ -35,7 +35,7 @@
 | Alumno | Quieren obtener respuestas rápidas a sus dudas | Que la directora de carrera no esté disponible en ese momento |
 | Directora de carrera | Quiere reducir las preguntas repetitivas | Asegurar que los alumnos reciban información correcta y actualizada|
 
-**Un conflicto entre usuarios:**
+**Un conflicto entre usuarios: El alumno quiere que el bot responda la mayor cantidad de preguntas posible y de manera inmediata, mientras que la directora necesita limitar las respuestas del bot a información confiable y aprobada.**
 
 ---
 
