@@ -7,7 +7,9 @@
 ---
 
 **Autor: Ana Victoria Hernández Álvarez**
+
 **Fecha de la última versión: 14 de agosto de 2026**
+
 **Repositorio:**
 
 ---
