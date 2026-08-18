@@ -6,7 +6,7 @@
 
 **Autor: Ana Victoria Hernández Álvarez**
 
-**Fecha de la última versión: 14 de agosto de 2026**
+**Fecha de la última versión: 18 de agosto de 2026**
 
 **Repositorio: 
 https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
