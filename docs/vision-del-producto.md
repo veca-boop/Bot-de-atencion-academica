@@ -25,7 +25,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 ## 2. Problema y usuarios
 
-**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. para lo cual la directora no tiene tiempo suficiente y por lo tanto no puede dar un servicio tan personalizado.**
+**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual la directora no tiene tiempo suficiente y por lo tanto no puede dar un servicio personalizado.**
 
 **Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente a la directora para obtener respuestas, y ella debe contestar manualmente cada consulta**
 
@@ -34,9 +34,9 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 | Tipo de usuario | Qué necesita del sistema | Qué le preocupa |
 |---|---|---|
 | Alumno | Quieren obtener respuestas rápidas a sus dudas | Que la directora de carrera no esté disponible en ese momento |
-| Directora de carrera | Quiere reducir las preguntas repetitivas | Asegurar que los alumnos reciban información correcta y actualizada|
+| Dirección de carrera | Quiere reducir las preguntas repetitivas | Asegurar que los alumnos reciban información correcta y actualizada|
 
-**Un conflicto entre usuarios: El alumno quiere que el bot responda la mayor cantidad de preguntas posible y de manera inmediata, mientras que la directora necesita limitar las respuestas del bot a información confiable y aprobada.**
+**Un conflicto entre usuarios: El alumno quiere que el bot responda la mayor cantidad de preguntas posibles y de manera inmediata, mientras que la dirección necesita limitar las respuestas del bot a información confiable y aprobada.**
 
 ---
 
