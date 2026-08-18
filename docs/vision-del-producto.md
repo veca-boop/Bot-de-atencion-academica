@@ -23,9 +23,9 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 ## 2. Problema y usuarios
 
-**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual la directora no tiene tiempo suficiente y por lo tanto no puede dar un servicio personalizado.**
+**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual la direccción no tiene tiempo suficiente y por lo tanto no puede dar un servicio personalizado.**
 
-**Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente a la directora para obtener respuestas, y ella debe contestar manualmente cada consulta**
+**Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente su director/a para obtener respuestas, esperando a que esté disponible y el director/a debe contestar manualmente cada consulta**
 
 **Usuarios del sistema:**
 
