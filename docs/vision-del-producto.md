@@ -1,6 +1,7 @@
 # Visión del producto
 
-> **Plantilla del curso · Ingeniería de Software I · SIS3407**
+> **Plantilla del curso · Ingeniería de Software I · SIS3407
+> Huecos importantes: definir donde estaría ubicado el bot (chat de la directora), definir si se actualiza completa la información o solo la necesaria**
 
 ---
 
@@ -17,7 +18,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 **Nombre del sistema: Bot de Atención Académica**
 
-**Descripción: Es un bot dentro de Microsoft Teams que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección.**
+**Descripción: Es un bot dentro del chat de Microsoft Teams del director de carrera que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. En caso de cambios en la información se actualizará específicamente esa información dentro de la base de datos del bot inmediatamente o en su defecto cada semestre.**
 
 ---
 
