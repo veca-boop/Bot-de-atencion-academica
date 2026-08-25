@@ -57,7 +57,9 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 ### Explícitamente fuera del alcance
 
 -El bot no te puede hacer el trámite.
+
 -El bot no puede resolver dudas fuera de su menú de servicios.
+
 -El bot no puede dar información detallada de los pasos para ningún trámite.
 
 **Por qué queda fuera:**
