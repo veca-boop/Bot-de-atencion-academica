@@ -92,19 +92,19 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 ## 5. Ciclo de vida elegido
 
-**Modelo elegido:**
+**Modelo elegido: Prototipado rápido**
 
-**Por qué le conviene a este proyecto:**
+**Por qué le conviene a este proyecto: El bot de Teams requiere interacción directa con los usuarios, por lo que es importante comprobar desde las primeras versiones si sus respuestas y funcionalidades realmente satisfacen sus necesidades. El prototipado rápido permite crear una versión inicial del bot, probarla con usuarios, recibir retroalimentación y realizar ajustes antes de desarrollar la versión definitiva.**
 
 ### Alternativas descartadas
 
-**Alternativa 1:**
+**Alternativa 1: Modelo en Cascada**
 
-*Por qué la descarté:*
+*Por qué la descarté: Se descartó porque requiere definir los requisitos desde el inicio y seguir las etapas de manera secuencial. En este proyecto, las necesidades y funcionalidades del bot pueden cambiar después de probarlo con los usuarios, por lo que un modelo tan rígido dificultaría realizar modificaciones.*
 
-**Alternativa 2:**
+**Alternativa 2: Modelo en espiral**
 
-*Por qué la descarté:*
+*Por qué la descarté: Se descartó porque está orientado principalmente a proyectos grandes con un nivel elevado de incertidumbre y riesgos técnicos o económicos. Para un bot de Teams de alcance más limitado, su análisis constante de riesgos y sus iteraciones resultarían innecesariamente complejos.*
 
 ---
 
