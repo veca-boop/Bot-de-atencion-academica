@@ -1,7 +1,6 @@
 # Visión del producto
 
 > **Plantilla del curso · Ingeniería de Software I · SIS3407
-> Huecos importantes: definir donde estaría ubicado el bot (chat de la directora), definir si se actualiza completa la información o solo la necesaria**
 
 ---
 
@@ -18,7 +17,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 **Nombre del sistema: Bot de Atención Académica**
 
-**Descripción: Es un bot dentro del chat de Microsoft Teams del director de carrera que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. En caso de cambios en la información se actualizará específicamente esa información dentro de la base de datos del bot inmediatamente o en su defecto cada semestre.**
+**Descripción: Es un bot dentro del chat de Microsoft Teams del director de carrera que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
 
 ---
 
@@ -85,7 +84,7 @@ Su función es proporcionar información previamente definida y autorizada por D
 
 **Reglas de negocio que ya identifiqué:**
 
-1.El bot debe responder únicamente dentro del alcance de las funciones definidas para el proyecto.
+1. El bot debe limitar sus respuestas a las categorías de información autorizadas por Dirección.
 
 2. El bot debe proporcionar respuestas claras y relacionadas con la información solicitada por el usuario.
 
@@ -115,13 +114,13 @@ Su función es proporcionar información previamente definida y autorizada por D
 
 Reviso que el documento cumpla lo siguiente:
 
-- [] La descripción del apartado 1 se entiende sin ser del área
-- [] Hay al menos dos tipos de usuario con necesidades distintas
-- [] Identifiqué un conflicto real entre usuarios
-- [ ] El alcance dice qué queda fuera, no solo qué queda dentro
-- [ ] Las exclusiones son específicas, no genéricas
-- [ ] Identifiqué el tipo de sistema y al menos dos atributos de calidad
-- [ ] Anoté al menos tres reglas de negocio no obvias
-- [ ] Justifiqué el ciclo de vida contra dos alternativas descartadas
-- [ ] El documento está en mi repositorio y se puede leer desde el navegador
-- [ ] Borré todas las instrucciones en cursiva de la plantilla
+- [x] La descripción del apartado 1 se entiende sin ser del área
+- [x] Hay al menos dos tipos de usuario con necesidades distintas
+- [x] Identifiqué un conflicto real entre usuarios
+- [x] El alcance dice qué queda fuera, no solo qué queda dentro
+- [x] Las exclusiones son específicas, no genéricas
+- [x] Identifiqué el tipo de sistema y al menos dos atributos de calidad
+- [x] Anoté al menos tres reglas de negocio no obvias
+- [x] Justifiqué el ciclo de vida contra dos alternativas descartadas
+- [x] El documento está en mi repositorio y se puede leer desde el navegador
+- [x] Borré todas las instrucciones en cursiva de la plantilla
