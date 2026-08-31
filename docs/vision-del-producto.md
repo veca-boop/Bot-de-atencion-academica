@@ -70,23 +70,26 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 **Tipo de sistema:**
 
-*(De información · Embebido · Crítico · Web y SaaS · De datos y análisis)*
+ Web y SaaS (principalmente Saas) 
 
-**Por qué es de ese tipo:**
+**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Los usuarios no necesitan instalar una aplicación independiente, sino que interactúan con el bot directamente desde la plataforma de Teams. 
+Su función es proporcionar información previamente definida y autorizada por Dirección.**
 
 **Atributos de calidad que impone:**
 
 | Atributo | Por qué importa en mi caso | Qué pasa si no se cumple |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Disponibilidad | El bot debe estar disponible dentro de Teams cuando los usuarios necesiten consultar la información.|Los usuarios no podrán acceder a la información mediante el bot. |
+|Usabilidad |Las respuestas deben ser claras y la interacción sencilla para que cualquier usuario pueda utilizarlo. | Los usuarios pueden confundirse o dejar de utilizar el bot.|
+|Confiabilidad |El bot debe mostrar correctamente la información proporcionada por Dirección. |Puede generar confusión y hacer que los usuarios reciban información equivocada. |
 
 **Reglas de negocio que ya identifiqué:**
 
-1.
-2.
-3.
+1.El bot debe responder únicamente dentro del alcance de las funciones definidas para el proyecto.
+
+2. El bot debe proporcionar respuestas claras y relacionadas con la información solicitada por el usuario.
+
+3. La información proporcionada por el bot debe corresponder a la información oficial proporcionada por Dirección.
 
 ---
 
@@ -112,9 +115,9 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 Reviso que el documento cumpla lo siguiente:
 
-- [ ] La descripción del apartado 1 se entiende sin ser del área
-- [ ] Hay al menos dos tipos de usuario con necesidades distintas
-- [ ] Identifiqué un conflicto real entre usuarios
+- [] La descripción del apartado 1 se entiende sin ser del área
+- [] Hay al menos dos tipos de usuario con necesidades distintas
+- [] Identifiqué un conflicto real entre usuarios
 - [ ] El alcance dice qué queda fuera, no solo qué queda dentro
 - [ ] Las exclusiones son específicas, no genéricas
 - [ ] Identifiqué el tipo de sistema y al menos dos atributos de calidad
