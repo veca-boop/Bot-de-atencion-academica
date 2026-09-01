@@ -32,7 +32,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 | Tipo de usuario | Qué necesita del sistema | Qué le preocupa |
 |---|---|---|
 | Alumno | Quieren obtener respuestas rápidas a sus dudas | Que la directora de carrera no esté disponible en ese momento |
-| Dirección de carrera | Quiere reducir las preguntas repetitivas | Asegurar que los alumnos reciban información correcta y actualizada|
+| Dirección de carrera | Quiere tener acceso a modificar la información que el bot usa | Asegurar que los alumnos reciban información correcta y actualizada|
 
 **Un conflicto entre usuarios: El alumno quiere que el bot responda la mayor cantidad de preguntas posibles y de manera inmediata, mientras que la dirección necesita limitar las respuestas del bot a información confiable y aprobada.**
 
