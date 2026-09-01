@@ -53,7 +53,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 -Mostrar calendario escolar.
 
--Mostrar lista de restricciones escolares con explicación del motivo por el cual puede llegar a ocurrir: inglés o por mala conducta.
+-Mostrar lista de restricciones escolares con explicación del motivo por el cual puede llegar a ocurrir: inglés, tercer idioma o por mala conducta.
 
 ### Explícitamente fuera del alcance
 
