@@ -17,15 +17,14 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 **Nombre del sistema: Bot de Atención Académica**
 
-**Descripción: Es un software a la medida.**
-
-**Es un bot dentro del chat de Microsoft Teams de cualquier director de carrera de la Universidad Anáhuac Querétaro que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
+**Descripción: **
+**Es un bot dentro del chat de Microsoft Teams del director de carrera de Ing.TI que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
 
 ---
 
 ## 2. Problema y usuarios
 
-**El problema: Los alumnos realizan constantemente preguntas similares a los directores de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual no tienen tiempo suficiente y por lo tanto no pueden dar un servicio personalizado en caso de ser necesario.**
+**El problema: Los alumnos realizan constantemente preguntas similares al director de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual no tiene tiempo suficiente y por lo tanto no puede dar un servicio personalizado en caso de ser necesario.**
 
 **Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente su director/a para obtener respuestas, esperando a que esté disponible y el director/a debe contestar manualmente cada consulta**
 
@@ -95,7 +94,7 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 ## 5. Ciclo de vida elegido
 
-**Modelo elegido: Prototipado rápido**
+**Modelo elegido: Prototipado rápido (Software a la medida)**
 
 **Por qué le conviene a este proyecto: El bot de Teams requiere interacción directa con los usuarios, por lo que es importante comprobar desde las primeras versiones si sus respuestas y funcionalidades realmente satisfacen sus necesidades. El prototipado rápido permite crear una versión inicial del bot, probarla con usuarios, recibir retroalimentación y realizar ajustes antes de desarrollar la versión definitiva.**
 
