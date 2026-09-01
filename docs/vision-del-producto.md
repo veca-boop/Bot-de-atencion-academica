@@ -6,7 +6,7 @@
 
 **Autor: Ana Victoria Hernández Álvarez**
 
-**Fecha de la última versión: 30 de agosto de 2026**
+**Fecha de la última versión: 1 de septiembre de 2026**
 
 **Repositorio: 
 https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
@@ -19,13 +19,13 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 **Descripción: Es un software a la medida.**
 
-**Es un bot dentro del chat de Microsoft Teams del director de carrera de Ing.TI que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
+**Es un bot dentro del chat de Microsoft Teams de cualquier director de carrera de la Universidad Anáhuac Querétaro que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
 
 ---
 
 ## 2. Problema y usuarios
 
-**El problema: Los alumnos realizan constantemente preguntas similares a la dirección de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual la direccción no tiene tiempo suficiente y por lo tanto no puede dar un servicio personalizado.**
+**El problema: Los alumnos realizan constantemente preguntas similares a los directores de carrera, lo que genera tiempo de espera y trabajo repetitivo. Para lo cual no tienen tiempo suficiente y por lo tanto no pueden dar un servicio personalizado en caso de ser necesario.**
 
 **Cómo se resuelve hoy sin el sistema: Los alumnos tienen que enviar mensajes, correos o preguntar directamente su director/a para obtener respuestas, esperando a que esté disponible y el director/a debe contestar manualmente cada consulta**
 
@@ -71,9 +71,9 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 **Tipo de sistema:**
 
- Web y SaaS (principalmente Saas) 
+ Web y SaaS  
 
-**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Por lo cual Los usuarios no necesitan instalar una aplicación independiente. Además, el bot no maneja bases de datos, no tiene grandes riesgos, ni usar un dispositivo físico, sino que el usuario interactúa con el bot directamente desde la plataforma de Teams.**
+**Por qué es de ese tipo: El bot funciona como un servicio integrado en el chat de  Microsoft Teams del director de carrera. Por lo cual Los usuarios no necesitan instalar una aplicación independiente. Además, el bot no manipula la información, no tiene grandes riesgos, ni usar un dispositivo físico, sino que el usuario interactúa con el bot directamente desde la plataforma de Teams.**
 
 **Atributos de calidad que impone:**
 
@@ -108,20 +108,3 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 **Alternativa 2: Modelo en espiral**
 
 *Por qué la descarté: Se descartó porque está orientado principalmente a proyectos grandes con un nivel elevado de incertidumbre y riesgos técnicos o económicos. Para un bot de Teams de alcance más limitado, su análisis constante de riesgos y sus iteraciones resultarían innecesariamente complejos.*
-
----
-
-## Antes de entregar
-
-Reviso que el documento cumpla lo siguiente:
-
-- [x] La descripción del apartado 1 se entiende sin ser del área
-- [x] Hay al menos dos tipos de usuario con necesidades distintas
-- [x] Identifiqué un conflicto real entre usuarios
-- [x] El alcance dice qué queda fuera, no solo qué queda dentro
-- [x] Las exclusiones son específicas, no genéricas
-- [x] Identifiqué el tipo de sistema y al menos dos atributos de calidad
-- [x] Anoté al menos tres reglas de negocio no obvias
-- [x] Justifiqué el ciclo de vida contra dos alternativas descartadas
-- [x] El documento está en mi repositorio y se puede leer desde el navegador
-- [x] Borré todas las instrucciones en cursiva de la plantilla
