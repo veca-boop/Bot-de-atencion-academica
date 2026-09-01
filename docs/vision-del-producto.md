@@ -71,7 +71,7 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
  Web y SaaS (principalmente Saas) 
 
-**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Los usuarios no necesitan instalar una aplicación independiente, no maneja bases de datos, no tiene grandes riesgos, ni usar un dispositivo físico, sino que interactúan con el bot directamente desde la plataforma de Teams.**
+**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Por lo cual Los usuarios no necesitan instalar una aplicación independiente. Además, el bot no maneja bases de datos, no tiene grandes riesgos, ni usar un dispositivo físico, sino que el usuario interactúa con el bot directamente desde la plataforma de Teams.**
 
 **Atributos de calidad que impone:**
 
