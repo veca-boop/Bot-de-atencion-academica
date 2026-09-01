@@ -47,9 +47,9 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 -Desplegar lista de los siguientes trámites escolares disponibles: 1.BAJA de materias, 2.BAJA de carrera, 3.TRÁMITE de beca escolar, 4.TRÁMITE para solicitar ser becado de tu director de carrera, 5.JUSTIFICANTE médico o de faltas, 6.INTERCAMBIO para materias de tu carrera.
 
--Mostrar información general del trámite (qué es, para qué es, que información debes de tener a la mano y a quién debes contactar para verlo) con un mensaje adjunto que diga: "Si requieres información más específica contacta a tu director de carrera".
+-Mostrar información general del trámite (qué es, para qué es, qué información debes de tener a la mano y a quién debes contactar para verlo) con un mensaje adjunto que diga: "Si requieres información más específica contacta a tu director de carrera".
 
--Mostrar calendario escolar adjunto a la base de datos.
+-Mostrar calendario escolar.
 
 -Mostrar lista de restricciones escolares con explicación del motivo por el cual puede llegar a ocurrir: inglés, tercer idioma o por mala conducta.
 
@@ -71,8 +71,7 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
  Web y SaaS (principalmente Saas) 
 
-**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Los usuarios no necesitan instalar una aplicación independiente, sino que interactúan con el bot directamente desde la plataforma de Teams. 
-Su función es proporcionar información previamente definida y autorizada por Dirección.**
+**Por qué es de ese tipo: El bot funciona como un servicio de software integrado en el chat del director de carrera de Microsoft Teams. Los usuarios no necesitan instalar una aplicación independiente, no maneja bases de datos, no tiene grandes riesgos, ni usar un dispositivo físico, sino que interactúan con el bot directamente desde la plataforma de Teams.**
 
 **Atributos de calidad que impone:**
 
