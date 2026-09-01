@@ -1,6 +1,5 @@
 # Visión del producto
 
-
 ---
 
 **Autor: Ana Victoria Hernández Álvarez**
