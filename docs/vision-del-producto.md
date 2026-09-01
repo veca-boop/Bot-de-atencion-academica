@@ -1,6 +1,5 @@
 # Visión del producto
 
-> **Plantilla del curso · Ingeniería de Software I · SIS3407
 
 ---
 
