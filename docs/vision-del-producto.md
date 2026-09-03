@@ -39,11 +39,28 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 ## 3. Alcance
 
 ### Dentro del alcance
--Desplegar un menú de servicios con las sigientes opciones: 1.Materias, 2.trámites y bajas, 3.calendario y restricciones.
+-Desplegar un menú de servicios con las sigientes opciones: 
+
+1.Materias,
+
+2.trámites y bajas,
+
+3.calendario y restricciones.
 
 -Mostrar lista de materias disponibles de la carrera en el semestre con sus respectivos horarios y maestros.
 
--Desplegar lista de los siguientes trámites escolares disponibles: 1.BAJA de materias, 2.BAJA de carrera, 3.TRÁMITE de beca escolar, 4.TRÁMITE para solicitar ser becado de tu director de carrera, 5.JUSTIFICANTE médico o de faltas, 6.INTERCAMBIO para materias de tu carrera.
+-Desplegar lista de los siguientes trámites escolares disponibles: 
+1.BAJA de materias,
+
+2.BAJA de carrera, 
+
+3.TRÁMITE de beca escolar, 
+
+4.TRÁMITE para solicitar ser becado de tu director de carrera,
+
+5.JUSTIFICANTE médico o de faltas,
+
+6.INTERCAMBIO para materias de tu carrera.
 
 -Mostrar información general del trámite (qué es, para qué es, qué información debes de tener a la mano y a quién debes contactar para verlo) con un mensaje adjunto que diga: "Si requieres información más específica contacta a tu director de carrera".
 
