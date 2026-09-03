@@ -13,7 +13,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 ## 1. Descripción del sistema
 
-**Nombre del sistema: Bot de Atención Académica**
+**Nombre del sistema: Bot de Atención Académica** que sea de copilot
 
 **Descripción: Es un bot dentro del chat de Microsoft Teams del director de carrera de Ing.TI que responde automáticamente las preguntas frecuentes de los alumnos sobre la carrera; por ejemplo, trámites, materias, fechas y procesos académicos, utilizando información previamente proporcionada y aprobada por la dirección. Cuando Dirección realice cambios en la información, se actualizará únicamente la información afectada antes de que vuelva a ser utilizada por los alumnos. Como mínimo, la información será revisada al inicio de cada semestre.**
 
@@ -105,7 +105,7 @@ El bot es una ayuda para que el director de carrera no gaste tiempo contestando 
 
 ## 5. Ciclo de vida elegido
 
-**Modelo elegido: Prototipado rápido (Software a la medida)**
+**Modelo elegido: Prototipado rápido (Software a la medida)** agil/incrementado
 
 **Por qué le conviene a este proyecto: El bot de Teams requiere interacción directa con los usuarios, por lo que es importante comprobar desde las primeras versiones si sus respuestas y funcionalidades realmente satisfacen sus necesidades. El prototipado rápido permite crear una versión inicial del bot, probarla con usuarios, recibir retroalimentación y realizar ajustes antes de desarrollar la versión definitiva.**
 
