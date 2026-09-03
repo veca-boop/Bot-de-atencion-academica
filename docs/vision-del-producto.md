@@ -47,15 +47,15 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 - Mostrar lista de materias disponibles de la carrera en el semestre con sus respectivos horarios y maestros.
 - Desplegar lista de los siguientes trámites escolares disponibles:
 
-1. BAJA de materias,
+1. BAJA de materias.
 
-2. BAJA de carrera, 
+2. BAJA de carrera.
 
-3. TRÁMITE de beca escolar, 
+3. TRÁMITE de beca escolar. 
 
-4. TRÁMITE para solicitar ser becado de tu director de carrera,
+4. TRÁMITE para solicitar ser becado de tu director de carrera.
 
-5. JUSTIFICANTE médico o de faltas,
+5. JUSTIFICANTE médico o de faltas.
 
 6. INTERCAMBIO para materias de tu carrera.
 
@@ -63,7 +63,7 @@ https://github.com/veca-boop/Project.Ingenier-a-de-Software-I**
 
 - Mostrar calendario escolar.
 
-- Mostrar lista de restricciones escolares con explicación del motivo por el cual puede llegar a ocurrir: inglés, tercer idioma o por mala conducta.
+- Mostrar lista de restricciones escolares con explicación del motivo por el cual puede llegar a ocurrir: inglés o por mala conducta.
 
 ### Explícitamente fuera del alcance
 
